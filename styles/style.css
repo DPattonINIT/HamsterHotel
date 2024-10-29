@@ -1,0 +1,63 @@
+.nav {
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+.container1 {
+  background-color: #000324ff;
+}
+.logo {
+  justify-content: center;
+}
+.background-div {
+  background-image: url(../Assests/header.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 500px;
+  width: 100%;
+}
+.headerBox-div {
+  background-color: #000324c1;
+  height: 232px;
+  width: 945px;
+  position: absolute;
+  top: 220px;
+  left: 20%;
+}
+.header-text {
+  color: white;
+  text-align: center;
+  padding-top: 50px;
+  font-weight: 200;
+}
+.headerp-text {
+  color: white;
+  text-align: center;
+  padding-top: 10px;
+  font-weight: 300;
+}
+
+.hamsterHomeImg
+{
+  height: 416px;
+  width: 369px;
+}
+.room-container{
+  background-image: url(../Assests/bg2.jpg);
+  position: absolute;
+  height: 738px;
+  width: 100%;
+  top: 1235px;
+  
+}
+.rooms-text{
+  color: white;
+  text-align: center;
+  margin-top: 15px;
+  font-weight: 300;
+}
+
+
+  
